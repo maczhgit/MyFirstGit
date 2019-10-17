@@ -1,1 +1,2 @@
 # MyFirstGit
+# Added something infomation.
